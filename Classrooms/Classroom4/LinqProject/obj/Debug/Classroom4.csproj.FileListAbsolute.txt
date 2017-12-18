@@ -1,0 +1,6 @@
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Clasroom4\bin\Debug\Clasroom4.exe.config
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Clasroom4\bin\Debug\Clasroom4.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Clasroom4\bin\Debug\Clasroom4.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Clasroom4\obj\Debug\Classroom4.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Clasroom4\obj\Debug\Clasroom4.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Clasroom4\obj\Debug\Clasroom4.pdb

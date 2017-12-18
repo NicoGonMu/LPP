@@ -1,0 +1,9 @@
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Classroom 2.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

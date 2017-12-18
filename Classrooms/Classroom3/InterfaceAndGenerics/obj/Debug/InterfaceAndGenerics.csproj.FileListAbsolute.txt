@@ -1,0 +1,14 @@
+c:\users\nico\documents\visual studio 2015\Projects\InterfaceAndGenerics\InterfaceAndGenerics\bin\Debug\InterfaceAndGenerics.exe.config
+c:\users\nico\documents\visual studio 2015\Projects\InterfaceAndGenerics\InterfaceAndGenerics\bin\Debug\InterfaceAndGenerics.exe
+c:\users\nico\documents\visual studio 2015\Projects\InterfaceAndGenerics\InterfaceAndGenerics\bin\Debug\InterfaceAndGenerics.pdb
+c:\users\nico\documents\visual studio 2015\Projects\InterfaceAndGenerics\InterfaceAndGenerics\obj\Debug\InterfaceAndGenerics.csprojResolveAssemblyReference.cache
+c:\users\nico\documents\visual studio 2015\Projects\InterfaceAndGenerics\InterfaceAndGenerics\obj\Debug\InterfaceAndGenerics.exe
+c:\users\nico\documents\visual studio 2015\Projects\InterfaceAndGenerics\InterfaceAndGenerics\obj\Debug\InterfaceAndGenerics.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Classroom3\InterfaceAndGenerics\bin\Debug\InterfaceAndGenerics.exe.config
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Classroom3\InterfaceAndGenerics\obj\Debug\InterfaceAndGenerics.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Classroom3\InterfaceAndGenerics\obj\Debug\InterfaceAndGenerics.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\InterfaceAndGenerics\bin\Debug\InterfaceAndGenerics.exe.config
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\InterfaceAndGenerics\obj\Debug\InterfaceAndGenerics.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\InterfaceAndGenerics\obj\Debug\InterfaceAndGenerics.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\InterfaceAndGenerics\bin\Debug\InterfaceAndGenerics.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\InterfaceAndGenerics\bin\Debug\InterfaceAndGenerics.pdb

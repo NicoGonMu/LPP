@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel", "Parallel\Parallel.csproj", "{A1660DFC-110E-4D00-BFAF-EC3014A438EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProperties", "DynamicProperties\DynamicProperties.csproj", "{D7191A23-7E8A-4D33-AFF2-432C085794D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "LinqProject\Linq.csproj", "{4104DE5D-7D11-46D2-AE3B-A31922FBD55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1660DFC-110E-4D00-BFAF-EC3014A438EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1660DFC-110E-4D00-BFAF-EC3014A438EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1660DFC-110E-4D00-BFAF-EC3014A438EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1660DFC-110E-4D00-BFAF-EC3014A438EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7191A23-7E8A-4D33-AFF2-432C085794D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7191A23-7E8A-4D33-AFF2-432C085794D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7191A23-7E8A-4D33-AFF2-432C085794D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7191A23-7E8A-4D33-AFF2-432C085794D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4104DE5D-7D11-46D2-AE3B-A31922FBD55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4104DE5D-7D11-46D2-AE3B-A31922FBD55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4104DE5D-7D11-46D2-AE3B-A31922FBD55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4104DE5D-7D11-46D2-AE3B-A31922FBD55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

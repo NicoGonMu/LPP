@@ -1,0 +1,29 @@
+c:\users\nico\documents\visual studio 2015\Projects\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\MainWindow.g.cs
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\App.g.cs
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2_Content.g.cs
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2_MarkupCompile.cache
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2_MarkupCompile.lref
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\linq2db.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\Mono.Security.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\Npgsql.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\linq2db.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\Npgsql.xml
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\MainWindow.baml
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.g.resources
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.Properties.Resources.resources
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.csproj.GenerateResource.Cache
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Nico\documents\visual studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Practice 2\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Practice 2\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Practice 2\Practica2\Practica2\obj\Debug\Practica2.pdb

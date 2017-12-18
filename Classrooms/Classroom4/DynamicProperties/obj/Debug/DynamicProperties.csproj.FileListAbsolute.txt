@@ -1,0 +1,12 @@
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\DynamicProperties\bin\Debug\DynamicProperties.exe.config
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\DynamicProperties\bin\Debug\DynamicProperties.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\DynamicProperties\bin\Debug\DynamicProperties.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\DynamicProperties\obj\Debug\DynamicProperties.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\DynamicProperties\obj\Debug\DynamicProperties.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\DynamicProperties\obj\Debug\DynamicProperties.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\DynamicProperties\bin\Debug\DynamicProperties.exe.config
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\DynamicProperties\obj\Debug\DynamicProperties.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\DynamicProperties\obj\Debug\DynamicProperties.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\DynamicProperties\bin\Debug\DynamicProperties.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\DynamicProperties\bin\Debug\DynamicProperties.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\DynamicProperties\obj\Debug\DynamicProperties.csprojResolveAssemblyReference.cache

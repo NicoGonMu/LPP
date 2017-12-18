@@ -1,0 +1,30 @@
+﻿<Window x:Class="Practica2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="484" Width="655">
+    <Grid Margin="0,0,0,-31">
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" SelectionChanged="dataGrid_SelectionChanged" Height="252" Width="627">
+        </DataGrid>
+        <TextBox x:Name="nameFilter" TextChanged="nameFilter_TextChanged" HorizontalAlignment="Left" Height="23" Margin="119,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="surnameFilter" TextChanged="surnameFilter_TextChanged" HorizontalAlignment="Left" Height="23" Margin="253,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="idFilter" TextChanged="idFilter_TextChanged" HorizontalAlignment="Left" Height="23" Margin="387,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="degreeFilter" TextChanged="degreeFilter_TextChanged" HorizontalAlignment="Left" Height="23" Margin="517,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Filter by:&#x9;    &#x9;&#x9; Name&#x9;&#x9;         Surname&#x9;&#x9;     Identifier&#x9;&#x9;Degree ID" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="627" Height="28"/>
+        <TextBox x:Name="itemName" HorizontalAlignment="Left" Height="23" Margin="119,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="itemSurname" HorizontalAlignment="Left" Height="23" Margin="253,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="itemDegree" HorizontalAlignment="Left" Height="23" Margin="517,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="itemID" HorizontalAlignment="Left" Height="23" Margin="387,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label_Copy" Content="Selected Item:&#x9;&#x9; Name&#x9;&#x9;          Surname&#x9;&#x9;       Identifier&#x9;&#x9; Degree ID" HorizontalAlignment="Left" Margin="10,324,0,0" VerticalAlignment="Top" Width="617" Height="28"/>
+        <Button x:Name="editButton" Content="Edit selected item" HorizontalAlignment="Left" Margin="10,352,0,0" VerticalAlignment="Top" Width="99" Click="editButton_Click" RenderTransformOrigin="0.485,-4.1"/>
+        <TextBox x:Name="newName" HorizontalAlignment="Left" Height="23" Margin="119,412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="newSurname" HorizontalAlignment="Left" Height="23" Margin="253,412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="newDegree" HorizontalAlignment="Left" Height="23" Margin="517,412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="newID" HorizontalAlignment="Left" Height="23" Margin="387,412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label3" Content="New Item:&#x9;&#x9; Name&#x9;&#x9;          Surname&#x9;&#x9;       Identifier&#x9;&#x9; Degree ID" HorizontalAlignment="Left" Margin="10,384,0,0" VerticalAlignment="Top" Width="617" Height="28"/>
+        <Button x:Name="insertButton" Content="Insert new item" HorizontalAlignment="Left" Margin="10,412,0,0" VerticalAlignment="Top" Width="99" Click="insertButton_Click" RenderTransformOrigin="0.485,-4.1"/>
+    </Grid>
+</Window>

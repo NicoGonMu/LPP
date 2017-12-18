@@ -1,0 +1,8 @@
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolLib.dll
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\bin\Debug\SchoolLib.pdb
+c:\users\nico\documents\visual studio 2015\Projects\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache

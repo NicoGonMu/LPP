@@ -1,0 +1,4 @@
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Assembly\bin\Debug\Ex_Assembly.dll
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Assembly\bin\Debug\Ex_Assembly.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Assembly\obj\Debug\Ex_Assembly.dll
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Assembly\obj\Debug\Ex_Assembly.pdb

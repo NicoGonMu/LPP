@@ -1,0 +1,14 @@
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Parallel\bin\Debug\Parallel.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Parallel\bin\Debug\Parallel.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Parallel\obj\Debug\Parallel.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Parallel\obj\Debug\Parallel.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Clasroom4\Parallel\obj\Debug\Parallel.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Classroom4\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Classroom4\Parallel\obj\Debug\Parallel.exe
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\Classroom4\Parallel\obj\Debug\Parallel.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\Parallel\obj\Debug\Parallel.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\Parallel\obj\Debug\Parallel.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\Parallel\bin\Debug\Parallel.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom4\Parallel\bin\Debug\Parallel.pdb

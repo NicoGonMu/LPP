@@ -1,0 +1,5 @@
+c:\users\nico\documents\visual studio 2015\Projects\SchoolLib\SchoolLib\bin\Debug\SchoolLib.dll
+c:\users\nico\documents\visual studio 2015\Projects\SchoolLib\SchoolLib\bin\Debug\SchoolLib.pdb
+c:\users\nico\documents\visual studio 2015\Projects\SchoolLib\SchoolLib\obj\Debug\SchoolLib.dll
+c:\users\nico\documents\visual studio 2015\Projects\SchoolLib\SchoolLib\obj\Debug\SchoolLib.pdb
+C:\Users\Nico\documents\visual studio 2015\Projects\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csprojResolveAssemblyReference.cache

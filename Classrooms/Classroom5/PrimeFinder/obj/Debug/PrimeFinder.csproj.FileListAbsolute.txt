@@ -1,0 +1,14 @@
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.exe.config
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\MainWindow.g.cs
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\App.g.cs
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder_MarkupCompile.cache
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder_MarkupCompile.lref
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.exe
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\bin\Debug\PrimeFinder.pdb
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\MainWindow.baml
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.g.resources
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.Properties.Resources.resources
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.csproj.GenerateResource.Cache
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.exe
+c:\users\nico\documents\visual studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\PrimeFinder\PrimeFinder\obj\Debug\PrimeFinder.csprojResolveAssemblyReference.cache

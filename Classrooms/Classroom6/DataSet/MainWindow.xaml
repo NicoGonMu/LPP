@@ -1,0 +1,19 @@
+﻿<Window x:Class="DataSetPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataSetPractice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" SelectionChanged="dataGrid_SelectionChanged" Height="242" Width="497">
+
+        </DataGrid>
+        <TextBox x:Name="nameFilter" TextChanged="nameFilter_TextChanged" HorizontalAlignment="Left" Height="23" Margin="119,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="surnameFilter" TextChanged="surnameFilter_TextChanged" HorizontalAlignment="Left" Height="23" Margin="253,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="degreeFilter" TextChanged="degreeFilter_TextChanged" HorizontalAlignment="Left" Height="23" Margin="387,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Filter by:&#x9;&#x9;&#x9; Name&#x9;&#x9;         Surname&#x9;&#x9;     Degree" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" Height="28"/>
+
+    </Grid>
+</Window>

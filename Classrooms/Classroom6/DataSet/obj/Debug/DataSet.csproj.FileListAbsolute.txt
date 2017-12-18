@@ -1,0 +1,5 @@
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom6\DataSet\obj\Debug\DataSet.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom6\DataSet\obj\Debug\MainWindow.g.cs
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom6\DataSet\obj\Debug\App.g.cs
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom6\DataSet\obj\Debug\DataSet_MarkupCompile.cache
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom6\DataSet\obj\Debug\DataSet_MarkupCompile.lref

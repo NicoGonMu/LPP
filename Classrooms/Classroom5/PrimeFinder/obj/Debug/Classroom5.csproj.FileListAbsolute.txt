@@ -1,0 +1,14 @@
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\bin\Debug\PrimeFinder.exe.config
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\PrimeFinder.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\PrimeFinder.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\bin\Debug\PrimeFinder.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\bin\Debug\PrimeFinder.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\Classroom5.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\MainWindow.g.cs
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\App.g.cs
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\PrimeFinder_MarkupCompile.cache
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\PrimeFinder_MarkupCompile.lref
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\MainWindow.baml
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\PrimeFinder.g.resources
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\PrimeFinder.Properties.Resources.resources
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom5\PrimeFinder\obj\Debug\Classroom5.csproj.GenerateResource.Cache

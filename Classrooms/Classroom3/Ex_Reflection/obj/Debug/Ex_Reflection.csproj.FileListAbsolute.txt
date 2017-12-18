@@ -1,0 +1,8 @@
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\bin\Debug\Ex_Reflection.exe.config
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\bin\Debug\Ex_Reflection.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\bin\Debug\Ex_Reflection.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\obj\Debug\Ex_Reflection.exe
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\obj\Debug\Ex_Reflection.pdb
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\obj\Debug\Ex_Reflection.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\bin\Debug\Ex_Assembly.dll
+C:\Users\Nico\Documents\Nico\UIB\Cuarto\Laboratorio de Proyectos de Programación\Classrooms\Classroom3\Ex_Reflection\bin\Debug\Ex_Assembly.pdb
